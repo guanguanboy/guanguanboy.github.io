@@ -34,7 +34,7 @@ I am currently an PhD Candidate at the Unmanned System Research Institute, North
 
 - **The CLIP Model is Secretly an Image-to-Prompt Converter** 
 <br>Yuxuan Ding, Chunna Tian\*, **Haoxuan Ding**, and Lingqiao Liu\*
-<br>Advances in Neural Information Processing Systems (**NeurIPS**), accepted, 2023
+<br>Advances in Neural Information Processing Systems (**NeurIPS**), accepted, 2023.
 <br>\[[PDF](https://arxiv.org/abs/2305.12716)\]
 
 - **URCA-GAN: UpSample Residual Channel-wise Attention Generative Adversarial Network for image-to-image translation** 
