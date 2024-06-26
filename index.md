@@ -12,10 +12,10 @@ I am currently an PhD Candidate at the Unmanned System Research Institute, North
 
 # Publications
 ---
-- **The CLIP Model is Secretly an Image-to-Prompt Converter** 
-<br>**Yuxuan Ding**, Chunna Tian\*, Haoxuan Ding, and Lingqiao Liu\*
-<br>Advances in Neural Information Processing Systems (**NeurIPS**), accepted, 2023
-<br>\[[PDF](https://arxiv.org/abs/2305.12716)\]
+- **FF-LPD: A Real-Time Frame-by-Frame License Plate Detector with Knowledge Distillation and Feature Propagation** 
+<br>**Haoxuan Ding**, Junyu Gao, Yuan Yuan, and Qi Wang
+<br>IEEE Transactions on Image Processing (**T-IP**), accepted, 2024, DOI:10.1109/TIP.2024.3414269
+<br>\[[PDF]((https://ieeexplore.ieee.org/document/10564853)\]
 
 - **Balanced Image Captioning with Task-aware Decoupled Learning and Fusion** 
 <br>**Yuxuan Ding**, Lingqiao Liu, Chunna Tian\*, Xiangnan Zhang, and Xilan Tian
