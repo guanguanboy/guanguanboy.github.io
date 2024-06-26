@@ -13,9 +13,24 @@ I am currently an PhD Candidate at the Unmanned System Research Institute, North
 # Publications
 ---
 - **FF-LPD: A Real-Time Frame-by-Frame License Plate Detector with Knowledge Distillation and Feature Propagation** 
-<br>**Haoxuan Ding**, Junyu Gao, Yuan Yuan, and Qi Wang
-<br>IEEE Transactions on Image Processing (**T-IP**), accepted, 2024, DOI:10.1109/TIP.2024.3414269
+<br>**Haoxuan Ding**, Junyu Gao\*, Yuan Yuan, and Qi Wang\*
+<br>IEEE Transactions on Image Processing (**T-IP**), accepted, 2024, DOI:10.1109/TIP.2024.3414269.
 <br>\[[PDF](https://ieeexplore.ieee.org/document/10564853)\]
+
+- **An End-to-End Contrastive License Plate Detector** 
+<br>**Haoxuan Ding**, Junyu Gao\*, Yuan Yuan, and Qi Wang\*
+<br>IEEE Transactions on Intelligent Transportation Systems (**T-ITS**), vol. 25, no. 1, pp. 503-516, 2024.
+<br>\[[PDF](https://ieeexplore.ieee.org/document/10227746)\]
+
+- **Boosting One-Stage License Plate Detector via Self-Constrained Contrastive Aggregation** 
+<br>**Haoxuan Ding**, Junyu Gao\*, Yuan Yuan, and Qi Wang\*
+<br>IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), vol. 33, no. 8, pp. 4204-4216, 2023.
+<br>\[[PDF](https://ieeexplore.ieee.org/document/10034778)\]
+
+- **The CLIP Model is Secretly an Image-to-Prompt Converter** 
+<br>Yuxuan Ding, Chunna Tian\*, **Haoxuan Ding**, and Lingqiao Liu\*
+<br>Advances in Neural Information Processing Systems (**NeurIPS**), accepted, 2023
+<br>\[[PDF](https://arxiv.org/abs/2305.12716)\]
 
 - **Balanced Image Captioning with Task-aware Decoupled Learning and Fusion** 
 <br>**Yuxuan Ding**, Lingqiao Liu, Chunna Tian\*, Xiangnan Zhang, and Xilan Tian
