@@ -27,47 +27,35 @@ I am currently an PhD Candidate at the Unmanned System Research Institute, North
 <br>IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), vol. 33, no. 8, pp. 4204-4216, 2023.
 <br>\[[PDF](https://ieeexplore.ieee.org/document/10034778)\]
 
+- **SamLP: A Customized Segment Anything Model for License Plate Detection** 
+<br>**Haoxuan Ding**, Junyu Gao\*, Yuan Yuan, and Qi Wang\*
+<br>arXiv preprint, arXiv:2401.06374v1, 2024. (Under Review)
+<br>\[[PDF](https://arxiv.org/abs/2401.06374)\]
+
 - **The CLIP Model is Secretly an Image-to-Prompt Converter** 
 <br>Yuxuan Ding, Chunna Tian\*, **Haoxuan Ding**, and Lingqiao Liu\*
 <br>Advances in Neural Information Processing Systems (**NeurIPS**), accepted, 2023
 <br>\[[PDF](https://arxiv.org/abs/2305.12716)\]
 
-- **Balanced Image Captioning with Task-aware Decoupled Learning and Fusion** 
-<br>**Yuxuan Ding**, Lingqiao Liu, Chunna Tian\*, Xiangnan Zhang, and Xilan Tian
-<br>Neurocomputing, 538, 126159, 2023
-<br>\[[PDF](https://www.sciencedirect.com/science/article/pii/S092523122300245X)\]
+- **URCA-GAN: UpSample Residual Channel-wise Attention Generative Adversarial Network for image-to-image translation** 
+<br>Xuan Nie, **Haoxuan Ding\***, Manhua Qi, Yifei Wang, and Edwrad Wong
+<br>Neurocomputing, vol. 462, no. 1, pp. 376-388, 2021.
+<br>\[[PDF](https://www.sciencedirect.com/science/article/pii/S0925231221003106)\]
 
-- **How Close is Chatgpt to Human Experts? Comparison Corpus, Evaluation, and Detection** 
-<br>Biyang Guo, Xin Zhang, Ziyuan Wang, Minqi Jiang, Jinran Nie, **Yuxuan Ding**, Jianwei Yue, and Yupeng Wu
-<br>arXiv preprint arXiv:2301.07597
-<br>\[[PDF](https://arxiv.org/abs/2301.07597)\]
+- **URCA-GAN: UpSample Residual Channel-wise Attention Generative Adversarial Network for image-to-image translation** 
+<br>Xuan Nie, **Haoxuan Ding\***, Manhua Qi, Yifei Wang, and Edwrad K. Wong
+<br>Neurocomputing, vol. 443, no. 1, pp. 75-84, 2021.
+<br>\[[PDF](https://www.sciencedirect.com/science/article/pii/S0925231221003106)\]
 
-- **Position-Aware Relation Learning for RGB-Thermal Salient Object Detection** 
-<br>Heng Zhou, Chunna Tian\*, Zhenxi Zhang, Chengyang Li, **Yuxuan Ding**, Yongqiang Xie, and Zhongbo Li
-<br>IEEE Transactions on Image Processing (**TIP**), 32, 2593-2607, 2023
-<br>\[[PDF](https://ieeexplore.ieee.org/abstract/document/10113883)\]
+- **GiGAN: Gate in GAN, could gate mechanism filter the features in image-to-image translation?** 
+<br>Xuan Nie, Jianchao Jia, **Haoxuan Ding\***, and Edwrad K. Wong
+<br>Neurocomputing, vol. 462, no. 1, pp. 376-388, 2021.
+<br>\[[PDF](https://www.sciencedirect.com/science/article/pii/S092523122101167X)\]
 
 - **Don't Stop Learning: Towards Continual Learning for the CLIP Model** 
-<br>**Yuxuan Ding**, Lingqiao Liu\*, Chunna Tian\*, Jingyuan Yang, and Haoxuan Ding
-<br>arXiv preprint arXiv:2207.09248
+<br>Yuxuan Ding, Lingqiao Liu\*, Chunna Tian\*, Jingyuan Yang, and **Haoxuan Ding**
+<br>arXiv preprint, arXiv:2207.09248, 2022. (Under Review)
 <br>\[[PDF](https://arxiv.org/abs/2207.09248)\]
-
-- **Seeking Subjectivity in Visual Emotion Distribution Learning** 
-<br>Jingyuan Yang, Jie Li, Leida Li, Xiumei Wang, **Yuxuan Ding**, and Xinbo Gao\*
-<br>IEEE Transactions on Image Processing (**TIP**), 31, 5189-5202, 2022
-<br>\[[PDF](https://ieeexplore.ieee.org/abstract/document/9846869)\]
-
-- **Stimuli-Aware Visual Emotion Analysis** 
-<br>Jingyuan Yang, Jie Li, Xiumei Wang, **Yuxuan Ding**, and Xinbo Gao\*
-<br>IEEE Transactions on Image Processing (**TIP**), 30, 7432-7445, 2021
-<br>\[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9524517)\]
-
-
-- **Jointing Cross-Modality Retrieval to Reweight Attributes for Image Caption Generation** 
-<br>**Yuxuan Ding**, Wei Wang, Mengmeng Jiang, Heng Liu, Donghu Deng, Wei Wei, and Chunna Tian\*
-<br>Pattern Recognition and Computer Vision (PRCV 2019), 62-74, 2019
-<br>\[[PDF](https://link.springer.com/chapter/10.1007/978-3-030-31726-3_6)\]
-
 
 
 <!-- 
