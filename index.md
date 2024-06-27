@@ -14,7 +14,7 @@ I am currently an PhD Candidate at the Unmanned System Research Institute, North
 ---
 - **FF-LPD: A Real-Time Frame-by-Frame License Plate Detector with Knowledge Distillation and Feature Propagation** 
 <br>**Haoxuan Ding**, Junyu Gao\*, Yuan Yuan, and Qi Wang\*
-<br>IEEE Transactions on Image Processing (**T-IP**), accepted, 2024, DOI:10.1109/TIP.2024.3414269.
+<br>IEEE Transactions on Image Processing (**T-IP**), vol. 33, no. 1, pp. 3893-3906, 2024.
 <br>\[[PDF](https://ieeexplore.ieee.org/document/10564853)\]
 
 - **An End-to-End Contrastive License Plate Detector** 
