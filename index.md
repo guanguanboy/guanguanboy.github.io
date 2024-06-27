@@ -6,7 +6,7 @@ title: "Haoxuan Ding"
 # About Me
 ---
 
-I am currently an PhD Candidate at the Unmanned System Research Institute, Northwestern Polytechnical University, advised by Prof. [Qi Wang](https://crabwq.github.io/), Yuan Yuan, and Xuelong Li. My research interest is computer vision, currently with an emphasis on object detection and multimodal learning in intelligent transportation system.
+I am currently an PhD Candidate at the Unmanned System Research Institute, Northwestern Polytechnical University, advised by Prof. [Qi Wang](https://crabwq.github.io/), Yuan Yuan, and [Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ). My research interest is computer vision, currently with an emphasis on object detection and multimodal learning in intelligent transportation system.
 
 <p><b> E-mail: haoxuan.ding@mail.nwpu.edu.cn </b></p> 
 
