@@ -1,6 +1,6 @@
-title: Haoxuan Ding
-author: Haoxuan Ding
-email: haoxuan.ding@mail.nwpu.edu.cn
+title: Guanlin Li
+author: Guanlin Li
+email: liguanlin1229@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -12,7 +12,7 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Haoxuan Ding
+  name: Guanlin Li
   tagline: PhD Candidate
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
@@ -40,7 +40,7 @@ plainwhite:
     #soundcloud: jekyll
     #telegram: jekyll
     #gitlab: jekyll
-    email: haoxuan.ding@mail.nwpu.edu.cn
+    email: liguanlin1229@gmail.com
     
 
     # Mastodon instances
