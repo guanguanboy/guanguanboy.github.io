@@ -17,40 +17,30 @@ I am currently an PhD Candidate at the School of Computer Science, Northwestern 
 <br>IEEE Transactions on on Multimedia (**T-MM**), 2024.
 <br>\[[PDF](https://ieeexplore.ieee.org/abstract/document/10557144/)\]
 
-- **An End-to-End Contrastive License Plate Detector** 
-<br>**Haoxuan Ding**, Junyu Gao\*, Yuan Yuan, and Qi Wang\*
-<br>IEEE Transactions on Intelligent Transportation Systems (**T-ITS**), vol. 25, no. 1, pp. 503-516, 2024.
-<br>\[[PDF](https://ieeexplore.ieee.org/document/10227746)\]
+- **Low-light hyperspectral image enhancement**
+<br>X. Li\*, **G. Li**, and B. Zhao
+<br>IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), vol. 60, no. 1, pp. 1-13, 2024.
+<br>\[[PDF](https://ieeexplore.ieee.org/document/9872529)\]
 
-- **Boosting One-Stage License Plate Detector via Self-Constrained Contrastive Aggregation** 
-<br>**Haoxuan Ding**, Junyu Gao\*, Yuan Yuan, and Qi Wang\*
-<br>IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), vol. 33, no. 8, pp. 4204-4216, 2023.
-<br>\[[PDF](https://ieeexplore.ieee.org/document/10034778)\]
+- **Image harmonization with simple hybrid CNN-transformer network** 
+<br>**G. Li**, B. Zhao\*, and X. Li\*
+<br>Neural Networks (**NN**), 2024.
+<br>\[[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0893608024005975)\]
 
-- **SamLP: A Customized Segment Anything Model for License Plate Detection** 
-<br>**Haoxuan Ding**, Junyu Gao\*, Yuan Yuan, and Qi Wang\*
-<br>arXiv preprint, arXiv:2401.06374v1, 2024. (Under Review)
+- **Image Harmonization in Complex Degradation Scenes** 
+<br>**G. Li**, B. Zhao\*, and X. Li\*
+<br>Pattern Recognition (**PR**), 2024. (Under Review)
 <br>\[[PDF](https://arxiv.org/abs/2401.06374)\]
 
-- **The CLIP Model is Secretly an Image-to-Prompt Converter** 
-<br>Yuxuan Ding, Chunna Tian\*, **Haoxuan Ding**, and Lingqiao Liu\*
-<br>Advances in Neural Information Processing Systems (**NeurIPS**), accepted, 2023.
+- **Semi-LLIE: Semi-supervised Contrastive Learning with Mamba-based Low-light Image Enhancement** 
+<br>**G. Li**, Ke Zhang\*, Ting Wang, Ming Li, B. Zhao, and X. Li\*
+<br>IEEE Transactions on on Multimedia (**T-MM**), 2024. (Under Review)
 <br>\[[PDF](https://arxiv.org/abs/2305.12716)\]
 
-- **URCA-GAN: UpSample Residual Channel-wise Attention Generative Adversarial Network for image-to-image translation** 
-<br>Xuan Nie, **Haoxuan Ding\***, Manhua Qi, Yifei Wang, and Edwrad K. Wong
-<br>Neurocomputing, vol. 443, no. 1, pp. 75-84, 2021.
-<br>\[[PDF](https://www.sciencedirect.com/science/article/pii/S0925231221003106)\]
-
-- **GiGAN: Gate in GAN, could gate mechanism filter the features in image-to-image translation?** 
-<br>Xuan Nie, Jianchao Jia, **Haoxuan Ding\***, and Edwrad K. Wong
-<br>Neurocomputing, vol. 462, no. 1, pp. 376-388, 2021.
-<br>\[[PDF](https://www.sciencedirect.com/science/article/pii/S092523122101167X)\]
-
-- **Don't Stop Learning: Towards Continual Learning for the CLIP Model** 
-<br>Yuxuan Ding, Lingqiao Liu\*, Chunna Tian\*, Jingyuan Yang, and **Haoxuan Ding**
-<br>arXiv preprint, arXiv:2207.09248, 2022. (Under Review)
-<br>\[[PDF](https://arxiv.org/abs/2207.09248)\]
+- **An Efficient Human-Computer Interaction in Battlefield Environment via Multi-stream Learning** 
+<br>P. Li, C. Li, **G. Li**, K. Guo, J. Yang, and Z. Liu
+<br>IEEE International Conference on Pattern Recognition and Artificial Intelligence (PRAI), 2022, pp. 276-281.
+<br>\[[PDF](https://ieeexplore.ieee.org/document/9904202)\]
 
 
 <!-- 
