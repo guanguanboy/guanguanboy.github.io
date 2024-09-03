@@ -19,7 +19,7 @@ I am currently an PhD Candidate at the School of Computer Science, Northwestern 
 
 - **Low-light hyperspectral image enhancement**
 <br>X. Li\*, **G. Li**, and B. Zhao
-<br>IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), vol. 60, no. 1, pp. 1-13, 2024.
+<br>IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), vol. 60, no. 1, pp. 1-13, 2022.
 <br>\[[PDF](https://ieeexplore.ieee.org/document/9872529)\]
 
 - **Image harmonization with simple hybrid CNN-transformer network** 
