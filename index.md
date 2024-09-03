@@ -12,10 +12,10 @@ I am currently an PhD Candidate at the School of Computer Science, Northwestern 
 
 # Publications
 ---
-- **FF-LPD: A Real-Time Frame-by-Frame License Plate Detector with Knowledge Distillation and Feature Propagation** 
-<br>**Haoxuan Ding**, Junyu Gao\*, Yuan Yuan, and Qi Wang\*
-<br>IEEE Transactions on Image Processing (**T-IP**), vol. 33, no. 1, pp. 3893-3906, 2024.
-<br>\[[PDF](https://ieeexplore.ieee.org/document/10564853)\]
+- **Low-light Image Enhancement with SAM-based Structure Priors and Guidance** 
+<br>**G. Li**, B. Zhao, and X. Li\*
+<br>IEEE Transactions on on Multimedia (**T-MM**), 2024.
+<br>\[[PDF]([https://ieeexplore.ieee.org/document/10557144](https://ieeexplore.ieee.org/abstract/document/10557144/))\]
 
 - **An End-to-End Contrastive License Plate Detector** 
 <br>**Haoxuan Ding**, Junyu Gao\*, Yuan Yuan, and Qi Wang\*
