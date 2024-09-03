@@ -30,12 +30,10 @@ I am currently an PhD Candidate at the School of Computer Science, Northwestern 
 - **Image Harmonization in Complex Degradation Scenes** 
 <br>**G. Li**, B. Zhao\*, and X. Li\*
 <br>Pattern Recognition (**PR**), 2024. (Under Review)
-<br>\[[PDF](https://arxiv.org/abs/2401.06374)\]
 
 - **Semi-LLIE: Semi-supervised Contrastive Learning with Mamba-based Low-light Image Enhancement** 
 <br>**G. Li**, Ke Zhang\*, Ting Wang, Ming Li, B. Zhao, and X. Li\*
 <br>IEEE Transactions on on Multimedia (**T-MM**), 2024. (Under Review)
-<br>\[[PDF](https://arxiv.org/abs/2305.12716)\]
 
 - **An Efficient Human-Computer Interaction in Battlefield Environment via Multi-stream Learning** 
 <br>P. Li, C. Li, **G. Li**, K. Guo, J. Yang, and Z. Liu
