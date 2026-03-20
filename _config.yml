@@ -13,7 +13,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Guanlin Li
-  tagline: Associate Professor at College of Information and Control Engineering, Xi'an Uninversity of Architecture and Technology.
+  tagline: Associate Professor at XAUAT.
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
