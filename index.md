@@ -6,7 +6,7 @@ title: "Guanlin Li"
 # About Me
 ---
 
-I am currently an PhD Candidate at the School of Computer Science, Northwestern Polytechnical University, advised by Prof. [Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ). My research interest is computer vision, currently with an emphasis on image enhancement, restoration, and generation.
+I am currently an Associate Professor at College of Information and Control Engineering, Xi'an Uninversity of Architecture and Technology. I was graduated as a PhD at the School of Computer Science, Northwestern Polytechnical University, advised by Prof. [Xuelong Li](https://scholar.google.com/citations?user=ahUibskAAAAJ). My research interest is computer vision, currently with an emphasis on image enhancement, restoration, and generation.
 
 <p><b> E-mail: liguanlin1229@gmail.com </b></p> 
 
@@ -22,6 +22,10 @@ I am currently an PhD Candidate at the School of Computer Science, Northwestern 
 <br>IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), vol. 60, no. 1, pp. 1-13, 2022.
 <br>\[[PDF](https://ieeexplore.ieee.org/document/9872529)\]
 
+- **HAM-CD: Hybrid Attention Mamba for Remote Sensing Change Detection** 
+<br>**G. Li**,  P. Han, W. Wang, T. Mu, Z. Xiao, and X. Li\*
+<br>IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 2026.
+
 - **Image harmonization with simple hybrid CNN-transformer network** 
 <br>**G. Li**, B. Zhao\*, and X. Li\*
 <br>Neural Networks (**NN**), 2024.
@@ -29,11 +33,11 @@ I am currently an PhD Candidate at the School of Computer Science, Northwestern 
 
 - **Image Harmonization in Complex Degradation Scenes** 
 <br>**G. Li**, B. Zhao\*, and X. Li\*
-<br>Pattern Recognition (**PR**), 2024. (Under Review)
+<br>Pattern Recognition (**PR**), 2024. 
 
 - **Semi-LLIE: Semi-supervised Contrastive Learning with Mamba-based Low-light Image Enhancement** 
 <br>**G. Li**, Ke Zhang\*, Ting Wang, Ming Li, B. Zhao, and X. Li\*
-<br>IEEE Transactions on on Multimedia (**T-MM**), 2024. (Under Review)
+<br>IEEE Transactions on on Multimedia (**NN**), 2024. 
 
 - **An Efficient Human-Computer Interaction in Battlefield Environment via Multi-stream Learning** 
 <br>P. Li, C. Li, **G. Li**, K. Guo, J. Yang, and Z. Liu
